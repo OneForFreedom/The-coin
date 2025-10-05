@@ -1,16 +1,14 @@
-# The lost wishing well.
+# The Coin.
 
-_You go on a stroll in a mystical forest._
+_It's a cold day._
 
-_It's tranquil._
+_You've been out the entire day._
 
-_It's making you happy._
+_If only you could just get a warm meal. But then you see it._ 
 
-_You take a few more steps further. You stumble upon it.._
+_Shining in the wet, grey snow. A coin. Not just any coin. A SIEGE COIN._
 
-_A wishing well? You toss a coin in it and make a wish._
-
-**Take a Great look at my project! Made with blood, sweat and tears, along with a mix of mystic water!**
+**Take a Great look at my project! Made with blood, sweat and tears, along with a mix of gold!**
 
 I hope you enjoy this project!! I had a blast making it!
 
