@@ -8,6 +8,8 @@ _If only you could just get a warm meal. But then you see it._
 
 _Shining in the wet, grey snow. A coin. Not just any coin. A SIEGE COIN._
 
+_Dinner is served!_
+
 **Take a Great look at my project! Made with blood, sweat and tears, along with a mix of gold!**
 
 I hope you enjoy this project!! I had a blast making it!
