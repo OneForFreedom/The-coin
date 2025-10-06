@@ -10,7 +10,7 @@ _Shining in the wet, grey snow. A coin. Not just any coin. A SIEGE COIN._
 
 _Dinner is served!_
 
-![]("Screenshot20%2025-10-0620%080305.png")
+![](Screenshot%202025-10-06%2003-05.png)
 
 **Take a Great look at my project! Made with blood, sweat and tears, along with a mix of gold!**
 
