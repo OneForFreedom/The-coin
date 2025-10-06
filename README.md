@@ -17,3 +17,5 @@ _Dinner is served!_
 I hope you enjoy this project!! I had a blast making it!
 
 Demo : https://cad.onshape.com/documents/36013f6e445d833040c8f64d/w/21014b8d91a06f56e92038d2/e/5638427cf377b88208b5be14
+
+NOTE: I SUGGEST YOU PRINT THIS IN 0.2MM OR MAKE THE COIN ITSELF BIGGER, THIS IS BECAUSE OF THE FINER DETAILS NOT SHOWING.
